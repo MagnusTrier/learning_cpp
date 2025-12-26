@@ -1,0 +1,1 @@
+alias g++="g++  -Wall -Weffc++ -Wextra -Wconversion -Wsign-conversion -pedantic-errors -ggdb -std=c++20"
