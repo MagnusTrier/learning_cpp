@@ -30,5 +30,8 @@ int main() {
 
 	double result{getResult(num1, num2, op)};
 	std::cout << num1 << op << num2 << " is " << result << '\n';
+
+	std::cout << "Hello world!" << 84 << '\n';
+
 	return 0;
 }
